@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tolulope/static/css/main.e9678891.css",
-    "main.js": "/tolulope/static/js/main.a7591017.js",
-    "static/media/blog.png": "/tolulope/static/media/blog.f64f23e6c79b2fbbcc6b.png",
-    "static/media/port.png": "/tolulope/static/media/port.afc3ac3305b1542ee36c.png",
-    "static/media/calculator.png": "/tolulope/static/media/calculator.ecb48961947a019e30ee.png",
-    "static/media/tolu1.png": "/tolulope/static/media/tolu1.7826f11f6e420a944952.png",
-    "static/media/tolu.png": "/tolulope/static/media/tolu.c72e42873db65525cbf7.png",
-    "static/media/sun.png": "/tolulope/static/media/sun.052b87c3fbdc167ac500.png",
-    "static/media/plant.jpg": "/tolulope/static/media/plant.efd4b60a5ceb04335bd8.jpg",
-    "static/media/address.png": "/tolulope/static/media/address.a01cb8cc428702f30bec.png",
-    "index.html": "/tolulope/index.html",
-    "main.e9678891.css.map": "/tolulope/static/css/main.e9678891.css.map",
-    "main.a7591017.js.map": "/tolulope/static/js/main.a7591017.js.map"
+    "main.css": "/static/css/main.e9678891.css",
+    "main.js": "/static/js/main.6703dc30.js",
+    "static/media/blog.png": "/static/media/blog.f64f23e6c79b2fbbcc6b.png",
+    "static/media/port.png": "/static/media/port.afc3ac3305b1542ee36c.png",
+    "static/media/calculator.png": "/static/media/calculator.ecb48961947a019e30ee.png",
+    "static/media/tolu1.png": "/static/media/tolu1.7826f11f6e420a944952.png",
+    "static/media/tolu.png": "/static/media/tolu.c72e42873db65525cbf7.png",
+    "static/media/sun.png": "/static/media/sun.052b87c3fbdc167ac500.png",
+    "static/media/plant.jpg": "/static/media/plant.efd4b60a5ceb04335bd8.jpg",
+    "static/media/address.png": "/static/media/address.a01cb8cc428702f30bec.png",
+    "index.html": "/index.html",
+    "main.e9678891.css.map": "/static/css/main.e9678891.css.map",
+    "main.6703dc30.js.map": "/static/js/main.6703dc30.js.map"
   },
   "entrypoints": [
     "static/css/main.e9678891.css",
-    "static/js/main.a7591017.js"
+    "static/js/main.6703dc30.js"
   ]
 }
